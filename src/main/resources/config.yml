@@ -1,0 +1,15 @@
+# Whether to give the starter kit only on first join (only change to false if you're testing)
+first-time-only: true
+
+# Welcome message when they join
+welcome-message: "Welcome to the server! Here is your starter kit."
+
+# Starter kit items (format: MATERIAL:AMOUNT) (example: "- NETHERITE_PICKAXE:1")
+starter-kit-items:
+  - IRON_SWORD:1
+  - IRON_PICKAXE:1
+  - BREAD:16
+  - IRON_HELMET:1
+  - IRON_CHESTPLATE:1
+  - IRON_LEGGINGS:1
+  - IRON_BOOTS:1

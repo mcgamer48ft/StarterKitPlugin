@@ -1,0 +1,8 @@
+name: StarterKitPlugin
+version: '1.2'
+main: io.xylex.starterkit.StarterKitPlugin
+api-version: '1.21'
+load: STARTUP
+authors: [ DefNotXylex ]
+description: Starter Kit
+website: mcgamer48ft.github.io
